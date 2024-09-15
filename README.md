@@ -3,5 +3,4 @@
 practice
 
 # student
-
-learnign git and git hub
+Learnig git and Github 
